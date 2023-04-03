@@ -1,0 +1,43 @@
+.button {
+	background-color: transparent;
+	padding: 10px 15px;
+	border-radius: 25px;
+	color: #181D31 ;
+	box-shadow: 2px 2px 2px 2px #181D31;
+	margin-bottom: 10px;
+	display: inline-block;
+	width: 160px;
+	margin: 40px;
+	text-align: center;
+
+}
+
+
+.button:hover {
+  transform: scale(1.5);
+}
+
+
+
+.btn-menu:hover {
+  transform: scale(1.5);
+}
+
+
+
+
+.btn-menu {
+	background-color: transparent;
+	padding: 10px 15px;
+	border-radius: 25px;
+	color: #DDDD ;
+	margin-bottom: 10px;
+	display: inline-block;
+	width: 100px;
+	margin: 40px;
+}
+
+#menu {
+	border: white;
+	border-radius: 25px;
+}
